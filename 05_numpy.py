@@ -11,5 +11,12 @@ my_1d_array = np.array([1,2,3,4])
 type(my_1d_array)
 my_1d_array.shape
 
+my_2d_array = np.array([
+    [1,2,3],
+    [4,5,6]])
+type(my_2d_array)
+my_2d_array.shape
+
+
 
 
